@@ -54,19 +54,19 @@ This project analyzes real-world transactional data for a UK-based online retail
   ![CHURN ANALYSIS](./Preview/CHURN ANALYSIS (Customer Attrition).png)
   
 - **CHURN ANALYSIS OUTPUT**  
-  ![CHURN ANALYSIS](./Preview/CHURN ANALYSIS  Output.png)
+  ![CHURN ANALYSIS OUTPUT](./Preview/CHURN_ANALYSIS_Output.png)
 
 - **Profit Margin By Product**  
-  ![Profit Margin by Product](./Preview/Profit Margin by Product.png)
+  ![Profit Margin by Product](./Preview/Profit_Margin_by_Product.png)
   
 - **Profit Margin Output**  
-  ![Profit Margin Output](./Preview/Profit Margin Output.png)
+  ![Profit Margin Output](./Preview/Profit_Margin_Output.png)
   
 - **CUSTOMER LIFETIME VALUE (CLV) Analysis**  
-  ![CUSTOMER LIFETIME VALUE (CLV) Analysis](./Preview/CUSTOMER LIFETIME VALUE (CLV) Analysis.png)
+  ![CUSTOMER LIFETIME VALUE (CLV) Analysis](./Preview/CUSTOMER_LIFETIME_VALUE_Analysis.png)
 
 - **Profit Margin**  
-  ![CUSTOMER LIFETIME VALUE (CLV) Analysis](./Preview/CLV Output.png)
+  ![CUSTOMER LIFETIME VALUE (CLV) Analysis](./Preview/CLV_Output.png)
 
 ## License
 This project is licensed under the MIT License. Please look at the [LICENSE](./LICENSE) file for details.
